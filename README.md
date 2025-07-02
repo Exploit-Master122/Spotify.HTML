@@ -1,3 +1,4 @@
+- [Spotify Embed!](https://exploit-master122.github.io/Spotify.HTML/)
 - If The website is blocked then use this.
 - There is another person on Github named Viaan,you should check him out!
 - Download [This](https://github.com/Exploit-Master122/Spotify.HTML/blob/main/spotify.html)
