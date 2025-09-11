@@ -1,0 +1,16 @@
+{
+  "name": "Darrkon WebPlayer v3.2",
+  "short_name": "Darrkon Network",
+  "description": "Music, TRULY for everyone unbl0cked. From the Developers to a better Earth...",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0f2c",
+  "theme_color": "#0a0f2c",
+  "icons": [
+    {
+      "src": "https://cdn.qwenlm.ai/output/7ce9ed7b-ab6b-4473-ac5e-25d2e62badb6/t2i/e927f375-7ead-4d26-8313-c85bf18567e1/1757567079.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiN2NlOWVkN2ItYWI2Yi00NDczLWFjNWUtMjVkMmU2MmJhZGI2IiwicmVzb3VyY2VfaWQiOiIxNzU3NTY3MDc5IiwicmVzb3VyY2VfY2hhdF9pZCI6ImVjM2Y2YWNmLTJlZjQtNGE3NC1iNTgyLTQ3MzkxNWZiN2MwMSJ9.GvlSqaQilNS2g87fqIWX7-W3bpHvPXAdLvE7dbERTZU",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
